@@ -1,8 +1,8 @@
 class Tron < Formula
   desc "Tiny CLI tool for controlling Lutron Caséta systems"
   homepage "https://github.com/paulrosania/tron"
-  url "https://github.com/paulrosania/tron/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "ba900a9aa7723990ef77dfb20137c56d0abdce93aa91696bc4d4f5d75c93f741"
+  url "https://github.com/paulrosania/tron/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "1fba688c52480ea7cd6c00243d89583e158343dfcec1f32890882cde2eb6e7da"
   license "MIT"
 
   depends_on "go" => :build
