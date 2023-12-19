@@ -1,8 +1,8 @@
 class Picoleaf < Formula
   desc "Tiny CLI tool for controlling Nanoleaf"
   homepage "https://github.com/paulrosania/picoleaf"
-  url "https://github.com/paulrosania/picoleaf/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "31e298da324c3c71f00322e4aae3bf7ad845813fd5aad5cdf506e15526b02d07"
+  url "https://github.com/paulrosania/picoleaf/archive/refs/tags/v1.3.0.tar.gz"
+  sha256 "130fc64bebf74e888050f5a53ed91bbd28b32f78fbdd3c3e1f3cf7f4ac4ddd4b"
   license "MIT"
 
   depends_on "go" => :build
